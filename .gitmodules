@@ -1,0 +1,3 @@
+[submodule "jsva"]
+	path = jsva
+	url = https://github.com/esaskar/jsva
